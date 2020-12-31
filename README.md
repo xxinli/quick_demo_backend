@@ -1,14 +1,17 @@
-
+Quick Start Pack with Sqlite3, Nodejs, Typescript
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:8080](http://localhost:8080)
 
 
-## TODO
-1. API connection to third party image library
-2. unit test
+## About 
+Backend (using Node/Express).
+
+## How to run the Backend
+1. Run `npm install` to install all dependencies.
+2. Run `npm run build` to start the app.
+3. Run `npm run start` to start the app.
+
+## Unit Test
+1. Run `npm run test`

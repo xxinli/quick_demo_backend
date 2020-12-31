@@ -1,0 +1,9 @@
+dist
+node_modules
+coverage
+.nyc_output
+.vscode
+error.log
+combined.log
+.env
+*.sqlite3
